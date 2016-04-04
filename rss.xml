@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Flynn]]></title>
+        <description><![CDATA[Flynn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 15:56:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Supreme Court Rejects Challenge to 'One Person One Vote']]></title>
+            <description><![CDATA[<article><h1>Supreme Court Rejects Challenge to 'One Person One Vote'</h1><p>WASHINGTON - The Supreme Court on Monday unanimously ruled that states may count all residents, whether or not they are eligible to vote, in drawing election districts. The decision was a major statement on the meaning of a fundamental principle of the American political system, that of "one person one vote."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75dd5a0edf4bd872918402ed512deb6bbba12418.png"></article>]]></description>
+            <link>http://www.nytimes.com/2016/04/05/us/politics/supreme-court-one-person-one-vote.html?_r=0</link>
+            <guid isPermaLink="false">5e088f67-becf-492c-ba20-978ed348f869</guid>
+            <pubDate>Mon, 04 Apr 2016 15:55:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
