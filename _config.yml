@@ -1,0 +1,28 @@
+name: Flynn
+favicon: null
+layout_spectrum: 0.21470647538080812
+typography_spectrum: 0.17256188881583512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.34554273658432066
+  lightness: 0.04855184769257903
+  saturation: 0.23896040651015937
+  rhythmicContrast: 0.3293938881251961
+purpose: []
