@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Flynn]]></title>
         <description><![CDATA[Flynn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flynn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 15:56:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 13:46:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flynn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Panama Papers: Who did what]]></title>
+            <description><![CDATA[<article><h1>Panama Papers: Who did what</h1><p>The anonymous leak Sunday of 11.5 million confidential documents belonging to a law firm in Panama detailing how rich, famous and powerful people hid their wealth raises fresh questions about global financial regulation. The Panama Papers show how 140 politicians from more than 50 countries, including 72 current or former heads of state, have links to Mossack Fonesca.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f904fb0a057bf93d54a261c3e710a5735c7c1c29.jpg"></article>]]></description>
+            <link>http://www.usatoday.com/story/news/world/2016/04/04/secret-panamapapers-files-who-did-what/82599656/</link>
+            <guid isPermaLink="false">5e82587d-5d14-4bb6-a55c-1a9c36355ae7</guid>
+            <pubDate>Tue, 05 Apr 2016 13:46:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Supreme Court Rejects Challenge to 'One Person One Vote']]></title>
             <description><![CDATA[<article><h1>Supreme Court Rejects Challenge to 'One Person One Vote'</h1><p>WASHINGTON - The Supreme Court on Monday unanimously ruled that states may count all residents, whether or not they are eligible to vote, in drawing election districts. The decision was a major statement on the meaning of a fundamental principle of the American political system, that of "one person one vote."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75dd5a0edf4bd872918402ed512deb6bbba12418.png"></article>]]></description>
